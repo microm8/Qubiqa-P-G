@@ -1,0 +1,5 @@
+D:\Xcelgo\Xcelgo Experior 6\Experior.Catalog.Qubiqa.Gantry.dll
+D:\Xcelgo\Xcelgo Experior 6\Experior.Catalog.Qubiqa.Gantry.pdb
+D:\Projects Vault\Qubiqa-P-G\GitHUB\Source\Catalogs\Experior.Catalog.Qubiqa.Gantry\obj\Debug\Experior.Catalog.Qubiqa.Gantry.csprojResolveAssemblyReference.cache
+D:\Projects Vault\Qubiqa-P-G\GitHUB\Source\Catalogs\Experior.Catalog.Qubiqa.Gantry\obj\Debug\Experior.Catalog.Qubiqa.Gantry.dll
+D:\Projects Vault\Qubiqa-P-G\GitHUB\Source\Catalogs\Experior.Catalog.Qubiqa.Gantry\obj\Debug\Experior.Catalog.Qubiqa.Gantry.pdb
